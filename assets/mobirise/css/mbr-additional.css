@@ -711,7 +711,7 @@ section.lazy-placeholder:after {
   opacity: 0.3;
 }
 .cid-qTkA127IK8 {
-  background-image: url("../../../assets/images/yachts-in-pier-photography1680x900.jpg");
+  background-image: url("../../../assets/images/mbr-2.jpg");
 }
 .cid-rI27NSXds9 {
   padding-top: 90px;
@@ -875,48 +875,70 @@ section.lazy-placeholder:after {
     font-size: 0.8rem;
   }
 }
-.cid-rI2hiTjDRi {
+.cid-rI2sctjn66 {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-color: #f9f9f9;
 }
-.cid-rI2hiTjDRi .mbr-section-subtitle {
+.cid-rI2sctjn66 .mbr-section-btn > * {
+  margin: 0;
+}
+.cid-rI2sctjn66 h4 {
+  font-weight: 500;
+}
+.cid-rI2sctjn66 p {
+  color: #232323;
+}
+.cid-rI2sctjn66 .aside-content {
+  -webkit-flex-basis: 100%;
+  flex-basis: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.cid-rI2sctjn66 .block-content {
+  display: -webkit-flex;
+  flex-direction: column;
+  -webkit-flex-direction: column;
+  word-break: break-word;
+}
+.cid-rI2sctjn66 .media {
+  margin: initial;
+  align-items: center;
+  -webkit-align-items: center;
+}
+.cid-rI2sctjn66 .mbr-figure {
+  align-self: flex-start;
+  -webkit-align-self: flex-start;
+  -webkit-flex-shrink: 0;
+  flex-shrink: 0;
+}
+.cid-rI2sctjn66 .card-img {
+  padding-right: 2rem;
+  width: auto;
+}
+.cid-rI2sctjn66 .card-img span {
+  font-size: 72px;
+  color: #707070;
+}
+@media (min-width: 992px) {
+  .cid-rI2sctjn66 .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rI2sctjn66 .mbr-figure {
+    padding-right: 0;
+    padding-bottom: 1rem;
+    margin-bottom: 2rem;
+  }
+}
+@media (max-width: 300px) {
+  .cid-rI2sctjn66 .card-img span {
+    font-size: 40px !important;
+  }
+}
+.cid-rI2sctjn66 .cost {
+  text-decoration: line-through;
   color: #767676;
-}
-.cid-rI2hiTjDRi .formoid {
-  margin: auto;
-}
-.cid-rI2hiTjDRi .form-control {
-  padding-left: 1.5rem;
-  padding-right: 1.5rem;
-}
-.cid-rI2hiTjDRi .input-group-btn .btn {
-  padding-top: 1rem;
-  padding-bottom: 1rem;
-  margin: 0 !important;
-}
-.cid-rI2hiTjDRi a:not([href]):not([tabindex]) {
-  color: #fff;
-}
-.cid-rI2hiTjDRi a.btn-white:not([href]):not([tabindex]) {
-  color: #333;
-}
-@media (max-width: 768px) {
-  .cid-rI2hiTjDRi .mbr-form .row {
-    -webkit-flex-direction: column;
-    flex-direction: column;
-    -webkit-align-items: center;
-    align-items: center;
-  }
-  .cid-rI2hiTjDRi .form-group,
-  .cid-rI2hiTjDRi .input-group-btn,
-  .cid-rI2hiTjDRi .input-group-btn .btn {
-    max-width: 300px;
-    width: 100%;
-  }
-}
-@media (min-width: 769px) {
-  .cid-rI2hiTjDRi .mbr-form .row > * {
-    padding: 0 0.5rem;
-  }
 }
