@@ -1,2 +1,2 @@
-# davinci-2month-gift
+# 2month-gift
 GitHub Pages
